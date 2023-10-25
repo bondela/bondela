@@ -11,9 +11,9 @@
   ✨ Currently active learning Golang, React ✨
 </div>
 
-<div align="right">
+<!-- <div align="right">
   <img src="https://media.tenor.com/8E7-GkyjKY0AAAAi/github-sticker.gif" width="250"/>
-</div>
+</div> -->
 
 <!--
 **bondela/bondela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
