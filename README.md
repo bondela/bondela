@@ -1,8 +1,8 @@
 ### **Mikita Makarevich**
 
-- [ ] Minsk, Belarus  
-- [ ] 4th year student of the College of Business and Law  
-- [ ] ✨ Currently learning Golang, JavaScript ✨
+- 🌃 Minsk, Biełaruś  
+- 🎓 4th year student of the College of Business and Law   
+- ✨ Currently learning Golang, React ✨
 
 
 <!--
