@@ -1,5 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="250"/>
+  <img src="https://media.tenor.com/5tYXnZk7vSsAAAAi/peach-goma.gif" width="250"/>
+  <img src="https://media.tenor.com/ufPula96MU4AAAAi/peach-goma-pc-bored-tired.gif" width="250"/>
+  <img src="https://media.tenor.com/eUqXFbSC_fkAAAAi/peach-goma.gif" width="250"/>
+  <img src="https://media.tenor.com/xfrgDqWMIpoAAAAi/peach-goma.gif" width="250"/>
+  <img src="https://media.tenor.com/qQCbpZzvv9wAAAAi/peach-goma.gif" width="250"/>
+  <img src="https://media.tenor.com/xfO5zcqNI50AAAAi/peach-goma.gif" width="250"/>
+  
+  
 </div>
 
 ###   **Mikita Makarevich**
