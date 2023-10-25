@@ -1,16 +1,19 @@
-<div id="header" align="left">
-  <img src="https://media.tenor.com/8E7-GkyjKY0AAAAi/github-sticker.gif" width="250"/>
+<div align="center">
+  <img src="https://media.tenor.com/6HklNunU494AAAAi/peach-goma.gif" width="250"/>
+</div>
+<hr>
 
+<div align="center">
   
-  
+  **Mikita Makarevič**  
+  🌃 Minsk, Biełaruś  
+  🎓 4th year student of the College of Business and Law  
+  ✨ Currently active learning Golang, React ✨
 </div>
 
-###   **Mikita Makarevich**
-
-- 🌃 Minsk, Biełaruś  
-- 🎓 4th year student of the College of Business and Law   
-- ✨ Currently learning Golang, React ✨
-
+<div align="right">
+  <img src="https://media.tenor.com/8E7-GkyjKY0AAAAi/github-sticker.gif" width="250"/>
+</div>
 
 <!--
 **bondela/bondela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
