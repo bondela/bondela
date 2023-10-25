@@ -1,4 +1,6 @@
-### Hi there 👋
+Minsk, Belarus
+4th year student of the College of Business and Law
+✨ Currently learning Golang, PHP, JavaScript
 
 <!--
 **bondela/bondela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
