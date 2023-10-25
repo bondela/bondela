@@ -1,4 +1,8 @@
-### **Mikita Makarevich**
+<div id="header" align="center">
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="250"/>
+</div>
+
+###   **Mikita Makarevich**
 
 - 🌃 Minsk, Biełaruś  
 - 🎓 4th year student of the College of Business and Law   
