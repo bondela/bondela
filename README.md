@@ -6,6 +6,7 @@
 <div align="center">
   
   **Mikita Makarevič**  
+  <br>
   🌃 Minsk, Biełaruś  
   🎓 4th year student of the College of Business and Law  
   ✨ Currently active learning Golang, React ✨
