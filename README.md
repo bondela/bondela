@@ -1,5 +1,8 @@
-<hr>
-
+<!--
+<div align="center">
+  <img src="https://media.tenor.com/6HklNunU494AAAAi/peach-goma.gif" width="250"/>
+</div>
+-->
 <div align="center">
   
   **Mikita Makarevič**  
